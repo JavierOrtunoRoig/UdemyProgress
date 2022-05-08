@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "Udemy Course Progress",
+  "version": "1.0.0",
+  "description": "With this extension you can see the progress of your courses.",
+  "icons": {
+    "16": "udemy_icon.webp",
+    "32": "udemy_icon.webp",
+    "48": "udemy_icon.webp",
+    "64": "udemy_icon.webp"
+  },
+  "action": {
+    "default_icon": {
+      "16": "udemy_icon.webp",
+      "24": "udemy_icon.webp",
+      "32": "udemy_icon.webp"
+    },
+    "default_title": "Udemy Course Progress",
+    "default_popup": "popup.html"
+  }
+}
